@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gaoyushu/newbooktest/issues"
   },
-  "homepage": "https://github.com/gaoyushu/newbooktest#readme"
+  "homepage": "https://github.com/gaoyushu/newbooktest#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
